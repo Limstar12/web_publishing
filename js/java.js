@@ -16,7 +16,7 @@ const swiper = new Swiper(".mySwiper", {
     //     delay: 2500,
     //     disableOnInteraction: false,
     //     },
-    centeredSlides: false,
+   // centeredSlides: false,
     // loop: true,
     breakpoints: {
       640: {
