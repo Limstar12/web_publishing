@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'GmarketSansLight';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HallymGothic-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2204@1.0/HallymGothic-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HallymGothic-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2204@1.0/HallymGothic-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HallymGothic-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2204@1.0/HallymGothic-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+h3{
+    font-family: 'GmarketSansMedium';
+    text-transform: uppercase;
+    line-height: 15rem !important;
+}
+
+.sec2 .coupon_text p{
+    font-family: 'HallymGothic-Regular';
+    text-transform: uppercase;
+}
+
+.sec2 .coupon_text b, .sec2 .coupon_text b strong{
+    font-family: 'HallymGothic-Bold';
+    text-transform: uppercase;
+}
+
+.sec2 .coupon_text b{
+    font-size: 30px;
+}
+.sec2 .coupon_text .strong{
+    font-size: 80px;
+    text-transform: uppercase;
+}
+
+.ct1{
+    color: #ff00bb;
+}
+
+.ct2{
+    color: #00aff1;
+}
+
