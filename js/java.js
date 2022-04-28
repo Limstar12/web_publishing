@@ -16,26 +16,19 @@ const swiper = new Swiper(".mySwiper", {
     //     delay: 2500,
     //     disableOnInteraction: false,
     //     },
-   // centeredSlides: false,
-    // loop: true,
+   // centeredSlides: true,
+    loop: true,
     breakpoints: {
       640: {
         slidesPerView: 2,
         spaceBetween: 20,
       },
-      768: {
-        slidesPerView: 2,
-        spaceBetween: 40,
-      },
       1024: {
         slidesPerView: 2,
-        spaceBetween: 50,
+        spaceBetween: 30,
             },
         },
-    });
-
-
-    
+    });    
 }
 
 

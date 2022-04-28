@@ -44,7 +44,7 @@
 h3{
     font-family: 'GmarketSansMedium';
     text-transform: uppercase;
-    line-height: 15rem !important;
+    
 }
 
 .sec2 .coupon_text p{
@@ -65,11 +65,26 @@ h3{
     text-transform: uppercase;
 }
 
-.ct1{
+.sec2 .couponBox .ct1{
     color: #ff00bb;
 }
 
-.ct2{
+.sec2 .couponBox .ct2{
     color: #00aff1;
 }
 
+.TextBox p{
+    font-size: 2.5rem;
+    font-family: 'GmarketSansMedium';
+    text-transform: uppercase;
+}
+
+a{
+    font-family: 'GmarketSansLight';
+    text-transform: uppercase;
+}
+
+.sec3_room a{
+    font-family: 'GmarketSansBold';
+    text-transform: uppercase;
+}
